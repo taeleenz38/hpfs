@@ -5,26 +5,25 @@ import { Button } from "@/components/ui/button";
 
 const Navbar = () => {
   return (
-    <div className="w-full flex justify-between px-24 py-6 shadow-md">
-      <Link href="/">
-        <Image src="/images/LOGO.svg" alt="HPSA Logo" width={75} height={75} />
+    <div className="sticky top-0 z-100 bg-background w-full flex justify-between items-center px-24 py-4 shadow-md">
+      <Link href="/" className="w-1/4">
+        <Image src="/images/LOGO.svg" alt="HPSA Logo" width={60} height={60} />
       </Link>
-
-      <div className="flex items-center gap-16 text-2xl font-medium">
+      <div className="flex gap-16 text-2xl font-medium">
         <Link href="/" className="hover:text-primary duration-200">
           Home
         </Link>
-        <Link href="/" className="hover:text-primary duration-200">
+        <Link href="/about" className="hover:text-primary duration-200">
           About
         </Link>
-        <Link href="/" className="hover:text-primary duration-200">
+        <Link href="/courses" className="hover:text-primary duration-200">
           Courses
         </Link>
-        <Link href="/" className="hover:text-primary duration-200">
+        <Link href="/contact" className="hover:text-primary duration-200">
           Contact
         </Link>
       </div>
-      <div className="flex items-center gap-2 text-xl font-medium">
+      <div className="flex justify-end gap-2 text-xl font-medium w-1/4">
         <Button className="text-xl hover:cursor-pointer duration-200">
           Sign In
         </Button>
