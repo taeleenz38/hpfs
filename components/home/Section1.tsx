@@ -5,8 +5,8 @@ import { Button } from "@/components/ui/button";
 
 const Section1 = () => {
   return (
-    <div className="fixed inset-0 w-screen h-dvh bg-[url('/home-bg.jpg')] bg-cover bg-center bg-no-repeat z-0 text-white">
-      <div className="flex justify-between mt-24">
+    <div className="w-screen h-dvh bg-[url('/home-bg.jpg')] bg-cover bg-center bg-no-repeat z-0 text-white">
+      <div className="flex justify-between">
         <div className="w-3/5 flex flex-col p-20 gap-y-11">
           <h1 className="text-4xl font-bold">
             Master the art of in-person sales with expert-led training designed

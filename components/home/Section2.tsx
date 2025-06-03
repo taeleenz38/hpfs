@@ -1,7 +1,7 @@
 import React from "react";
 
 const Section2 = () => {
-  return <div>Section2</div>;
+  return <div className="w-screen h-dvh">hi</div>;
 };
 
 export default Section2;
