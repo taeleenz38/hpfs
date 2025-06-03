@@ -24,7 +24,7 @@ const Section2 = () => {
             </li>
             <li className="mb-5">Real-world scenarios and pitch breakdowns</li>
             <li>
-              Expert insights from Peter Prowse, a sales leader with over 30
+              Expert insights from Peter Prowse, a sales leader with over 20
               years of hands-on experience in high-stakes client origination
             </li>
           </ul>
