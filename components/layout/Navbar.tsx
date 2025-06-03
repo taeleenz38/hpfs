@@ -13,11 +13,11 @@ const Navbar = () => {
         <Link href="/" className="hover:text-primary duration-200">
           Home
         </Link>
-        <Link href="/about" className="hover:text-primary duration-200">
-          About
-        </Link>
         <Link href="/courses" className="hover:text-primary duration-200">
           Courses
+        </Link>
+        <Link href="/about" className="hover:text-primary duration-200">
+          About
         </Link>
         <Link href="/contact" className="hover:text-primary duration-200">
           Contact
