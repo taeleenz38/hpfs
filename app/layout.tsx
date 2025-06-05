@@ -11,8 +11,8 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "HPSA",
-  description: "High Performance Sales Advisory",
+  title: "ExCEL",
+  description: "Exceptional Client Engagement & Leadership",
 };
 
 export default function RootLayout({

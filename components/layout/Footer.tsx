@@ -9,7 +9,7 @@ const Footer = () => {
         &copy; {new Date().getFullYear()} High Performance Sales Advisory. All
         rights reserved.
       </p>
-      <div className="flex gap-6">
+      <div className="flex gap-4">
         <Link href="https://twitter.com" target="_blank">
           <SiX
             className="text-white hover:text-gray-400 transition duration-200"

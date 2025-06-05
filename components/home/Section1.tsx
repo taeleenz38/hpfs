@@ -13,14 +13,14 @@ const Section1 = () => {
             for those who are ready to level up their game.
           </h1>
           <h2 className="text-xl font-light">
-            At HPSA, we go beyond theory. This is a results-driven sales course
+            At ExCEL, we go beyond theory. This is a results-driven sales course
             built for ambitious individuals who want to learn the most effective
             strategies in offline, face-to-face selling — directly from one of
             the best in the business.
           </h2>
           <h2 className="text-xl font-light">
             Whether you're just starting out or looking to sharpen your skills,
-            the HPSA course gives you the tools, confidence, and mindset needed
+            the ExCEL course gives you the tools, confidence, and mindset needed
             to excel in high-performance sales.
           </h2>
           <div className="flex gap-3">

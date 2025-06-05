@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import Section1 from "@/components/courses/Section1";
 
-const page = () => {
+const courses = () => {
   return (
-    <div>page</div>
-  )
-}
+    <div>
+      <Section1 />
+    </div>
+  );
+};
 
-export default page
+export default courses;
