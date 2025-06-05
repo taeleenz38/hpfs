@@ -38,7 +38,7 @@ const Section1 = () => {
         </div>
         <Image
           src="/images/LOGO.svg"
-          alt="HPSA"
+          alt="ExCEL"
           width={500}
           height={500}
           className="w-2/5 p-10"

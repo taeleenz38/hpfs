@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="w-full bg-black text-white p-8 flex justify-between items-center">
       <p>
-        &copy; {new Date().getFullYear()} High Performance Sales Advisory. All
+        &copy; {new Date().getFullYear()} Exceptional Client Engagement & Leadership. All
         rights reserved.
       </p>
       <div className="flex gap-4">
